@@ -1,5 +1,7 @@
 🚗 **România pe roți: ce tip de combustibil domină?**
 
+<img width="674" height="375" alt="image" src="https://github.com/user-attachments/assets/300c13d5-04e9-454f-8f71-0c1a1ffdfc6e" />
+
 Am analizat distribuția vehiculelor în funcție de tipul de combustibil, la nivel de județ, iar rezultatele sunt interesante 👇
 
 🔍 **Ce ne arată datele?**
